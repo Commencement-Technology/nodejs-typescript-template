@@ -29,7 +29,7 @@
   "homepage": "https://github.com/zufichris/nodejs-typescript-template#readme",
   "dependencies": {
     "@types/mongoose": "^5.11.96",
-    "express": "^4.21.1",
+    "express": "^4.22.1",
     "mongoose": "^8.7.1"
   },
   "devDependencies": {
